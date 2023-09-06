@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Nike-Store/static/css/main.9e09ed16.css",
+    "main.js": "/Nike-Store/static/js/main.9c884c6e.js",
+    "static/js/787.23ec7cbf.chunk.js": "/Nike-Store/static/js/787.23ec7cbf.chunk.js",
+    "static/media/Women.png": "/Nike-Store/static/media/Women.a7446f2d3643306bb322.png",
+    "static/media/Men.png": "/Nike-Store/static/media/Men.1a9b05fb9e817bf107e0.png",
+    "static/media/Kids.png": "/Nike-Store/static/media/Kids.f8c7ef74044fc8c74a85.png",
+    "static/media/2.png": "/Nike-Store/static/media/2.b1ad085fc82b92cdad57.png",
+    "static/media/AirJordanHighOg.png": "/Nike-Store/static/media/AirJordanHighOg.f2a7f830529b0e14befd.png",
+    "static/media/Product 03.png": "/Nike-Store/static/media/Product 03.28c12232087ee1c9db70.png",
+    "static/media/Product 01.png": "/Nike-Store/static/media/Product 01.4fde86d727ed6f3fe7d2.png",
+    "static/media/Product 02.png": "/Nike-Store/static/media/Product 02.792b404c58a21b598e3e.png",
+    "static/media/Rectangle 2.png": "/Nike-Store/static/media/Rectangle 2.6d7462853f4670a07938.png",
+    "index.html": "/Nike-Store/index.html",
+    "main.9e09ed16.css.map": "/Nike-Store/static/css/main.9e09ed16.css.map",
+    "main.9c884c6e.js.map": "/Nike-Store/static/js/main.9c884c6e.js.map",
+    "787.23ec7cbf.chunk.js.map": "/Nike-Store/static/js/787.23ec7cbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e09ed16.css",
+    "static/js/main.9c884c6e.js"
+  ]
+}
