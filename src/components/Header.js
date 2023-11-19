@@ -1,12 +1,10 @@
-import React from "react";
-import logo from "../images/Logo.png";
-import Icons from "./Icons";
+import React from 'react';
+import Icons from './Icons';
 
 export default function Header() {
   return (
-    <div className="header">
+    <div className='header'>
       <Icons />
-      <img src={logo} className="header__logo" alt="Nike-Logo" />
     </div>
   );
 }
