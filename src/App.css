@@ -93,6 +93,8 @@
   max-width: 1440px;
   margin: auto;
   overflow: hidden;
+  border-left: 1px solid red;
+  border-right: 1px solid red;
 }
 
 /* * {
@@ -101,7 +103,7 @@
 
 .header {
   position: relative;
-  height: 100px;
+  height: 80px;
   background-color: #070707;
   display: flex;
   align-items: center;
@@ -111,7 +113,7 @@
 
 .header__logo {
   position: absolute;
-  right: calc(50% - 80px);
+  right: calc(50% - 40px);
   max-width: 80px;
   max-height: 32px;
   cursor: pointer;
@@ -162,7 +164,7 @@
 }
 .labels__red {
   animation: labelRed 1.5s forwards;
-  top: 10px;
+  top: -100px;
   position: absolute;
   height: 60px;
   width: 100%;
@@ -180,7 +182,7 @@
 }
 .labels__black {
   animation: labelBlack 1.5s backwards;
-  top: 10px;
+  top: -100px;
   position: absolute;
   height: 60px;
   width: 110%;
@@ -225,7 +227,7 @@
   background-image: url('./images/Vector\ 2.png');
   background-position: top 1px right 0;
   background-repeat: no-repeat;
-  height: 700px;
+  height: 600px;
   border: 1px solid #070707;
   min-height: 850px;
 }
@@ -316,7 +318,7 @@
   user-select: none;
 }
 .choose {
-  margin-top: 200px;
+  margin-top: 100px;
   display: flex;
   align-items: center;
 }
@@ -413,7 +415,9 @@
   font-size: 64px;
   font-family: Futura Md BT;
   line-height: 64px;
-  margin: 80px auto;
+  margin-bottom: 80px;
+  margin-top: 0;
+  user-select: none;
 }
 
 .sellers__elements {
@@ -435,6 +439,7 @@
   font-style: italic;
   text-transform: capitalize;
   transform: rotate(-10.675deg);
+  user-select: none;
 }
 .products__elements {
   display: flex;
