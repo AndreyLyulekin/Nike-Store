@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nike-Store/static/css/main.615c9bd0.css",
+    "main.css": "/Nike-Store/static/css/main.6c3cff45.css",
     "main.js": "/Nike-Store/static/js/main.f7a00bfb.js",
     "static/js/787.23ec7cbf.chunk.js": "/Nike-Store/static/js/787.23ec7cbf.chunk.js",
     "static/media/Women.png": "/Nike-Store/static/media/Women.a7446f2d3643306bb322.png",
@@ -13,12 +13,12 @@
     "static/media/Product 02.png": "/Nike-Store/static/media/Product 02.792b404c58a21b598e3e.png",
     "static/media/Rectangle 2.png": "/Nike-Store/static/media/Rectangle 2.6d7462853f4670a07938.png",
     "index.html": "/Nike-Store/index.html",
-    "main.615c9bd0.css.map": "/Nike-Store/static/css/main.615c9bd0.css.map",
+    "main.6c3cff45.css.map": "/Nike-Store/static/css/main.6c3cff45.css.map",
     "main.f7a00bfb.js.map": "/Nike-Store/static/js/main.f7a00bfb.js.map",
     "787.23ec7cbf.chunk.js.map": "/Nike-Store/static/js/787.23ec7cbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.615c9bd0.css",
+    "static/css/main.6c3cff45.css",
     "static/js/main.f7a00bfb.js"
   ]
 }
