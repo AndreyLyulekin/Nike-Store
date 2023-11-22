@@ -251,7 +251,7 @@
   font-size: 128px;
   line-height: 128px;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0.05) 100%);
-  -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   background-blend-mode: hard-light;
   user-select: none;
@@ -438,7 +438,6 @@
   font-family: Futura XBlkCnIt BT;
   font-style: italic;
   text-transform: capitalize;
-  transform: rotate(-10.675deg);
   user-select: none;
 }
 .products__elements {
@@ -458,4 +457,38 @@
   font-size: 24px;
   font-family: Futura LtCn BT;
   text-transform: capitalize;
+}
+.essense__header img {
+  vertical-align: sub;
+}
+.essense__header img:hover {
+  transform: scale(1.5);
+}
+
+.select__wrapper {
+  position: relative;
+  background: inherit;
+}
+.select {
+  position: relative;
+  width: 200px;
+  background: inherit;
+  border: 1px solid #000000;
+  border-radius: 6px;
+  padding: 10px 15px;
+  color: #ffffff;
+  font-family: inherit;
+  font-size: 24px;
+  font-weight: 300;
+  -webkit-appearance: none;
+  appearance: none;
+  cursor: pointer;
+}
+.select__active {
+  background-color: #000000;
+}
+.option {
+  font-weight: inherit;
+  font-family: inherit;
+  font-size: inherit;
 }
